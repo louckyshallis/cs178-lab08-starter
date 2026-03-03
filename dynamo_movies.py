@@ -1,5 +1,6 @@
 # Lab 8 - Shallis Loucks
 # Version 2
+# Created on 12:06 AM 03/03/2026
 # CS178 - Lab 8 Starter
 
 REGION = "us-east-1"
